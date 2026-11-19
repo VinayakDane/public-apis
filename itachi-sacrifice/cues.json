@@ -1,0 +1,232 @@
+{
+ "duration": 40.0,
+ "bed": {
+  "gain": 0.1,
+  "note": 55
+ },
+ "cues": [
+  {
+   "t": 0.0,
+   "type": "swell",
+   "dur": 2.2,
+   "gain": 0.5
+  },
+  {
+   "t": 1.32,
+   "type": "thud",
+   "gain": 0.4
+  },
+  {
+   "t": 3.25,
+   "type": "pop",
+   "pitch": 820,
+   "gain": 0.4
+  },
+  {
+   "t": 3.9,
+   "type": "whoosh",
+   "dur": 1.0,
+   "gain": 0.3
+  },
+  {
+   "t": 5.1,
+   "type": "whoosh",
+   "dur": 0.45,
+   "gain": 0.45
+  },
+  {
+   "t": 5.85,
+   "type": "pop",
+   "pitch": 520,
+   "gain": 0.65
+  },
+  {
+   "t": 6.95,
+   "type": "pop",
+   "pitch": 600,
+   "gain": 0.4
+  },
+  {
+   "t": 7.85,
+   "type": "pop",
+   "pitch": 480,
+   "gain": 0.35
+  },
+  {
+   "t": 9.1,
+   "type": "whoosh",
+   "dur": 0.35,
+   "gain": 0.4
+  },
+  {
+   "t": 9.45,
+   "type": "thud",
+   "gain": 0.6
+  },
+  {
+   "t": 10.1,
+   "type": "whoosh",
+   "dur": 0.45,
+   "gain": 0.45
+  },
+  {
+   "t": 10.85,
+   "type": "pop",
+   "pitch": 560,
+   "gain": 0.35
+  },
+  {
+   "t": 11.4,
+   "type": "whoosh",
+   "dur": 0.4,
+   "gain": 0.4
+  },
+  {
+   "t": 12.15,
+   "type": "thud",
+   "gain": 0.55
+  },
+  {
+   "t": 13.2,
+   "type": "rumble",
+   "dur": 1.9,
+   "gain": 0.55
+  },
+  {
+   "t": 15.1,
+   "type": "whoosh",
+   "dur": 0.45,
+   "gain": 0.45
+  },
+  {
+   "t": 15.6,
+   "type": "whoosh",
+   "dur": 0.5,
+   "gain": 0.4
+  },
+  {
+   "t": 16.85,
+   "type": "chime",
+   "pitch": 880,
+   "gain": 0.6
+  },
+  {
+   "t": 19.6,
+   "type": "whoosh",
+   "dur": 0.45,
+   "gain": 0.45
+  },
+  {
+   "t": 21.1,
+   "type": "thud",
+   "gain": 0.6
+  },
+  {
+   "t": 22.3,
+   "type": "rumble",
+   "dur": 1.2,
+   "gain": 0.5
+  },
+  {
+   "t": 23.4,
+   "type": "chime",
+   "pitch": 990,
+   "gain": 0.5
+  },
+  {
+   "t": 24.1,
+   "type": "whoosh",
+   "dur": 0.45,
+   "gain": 0.45
+  },
+  {
+   "t": 25.05,
+   "type": "riser",
+   "dur": 1.4,
+   "gain": 0.4
+  },
+  {
+   "t": 26.45,
+   "type": "pop",
+   "pitch": 880,
+   "gain": 0.55
+  },
+  {
+   "t": 28.15,
+   "type": "chime",
+   "pitch": 784,
+   "gain": 0.55
+  },
+  {
+   "t": 28.6,
+   "type": "whoosh",
+   "dur": 0.45,
+   "gain": 0.45
+  },
+  {
+   "t": 29.5,
+   "type": "pop",
+   "pitch": 990,
+   "gain": 0.3
+  },
+  {
+   "t": 30.7,
+   "type": "whoosh",
+   "dur": 0.3,
+   "gain": 0.45
+  },
+  {
+   "t": 30.95,
+   "type": "thud",
+   "gain": 0.75
+  },
+  {
+   "t": 31.65,
+   "type": "riser",
+   "dur": 1.4,
+   "gain": 0.5
+  },
+  {
+   "t": 33.05,
+   "type": "chime",
+   "pitch": 1046,
+   "gain": 0.7
+  },
+  {
+   "t": 33.6,
+   "type": "whoosh",
+   "dur": 0.45,
+   "gain": 0.45
+  },
+  {
+   "t": 35.35,
+   "type": "pop",
+   "pitch": 660,
+   "gain": 0.5
+  },
+  {
+   "t": 36.2,
+   "type": "sparkle",
+   "dur": 1.0,
+   "gain": 0.45
+  },
+  {
+   "t": 36.2,
+   "type": "swell",
+   "dur": 2.6,
+   "gain": 0.35,
+   "pitch": 98
+  },
+  {
+   "t": 37.3,
+   "type": "chime",
+   "pitch": 784,
+   "gain": 0.65
+  },
+  {
+   "t": 39.0,
+   "type": "thud",
+   "gain": 0.7
+  }
+ ]
+}

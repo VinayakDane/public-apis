@@ -1,0 +1,5 @@
+/* Blocking pass: flat background, no glow, no highlight/shade, no depth layers. */
+#sky-grad { background: #1E1A4E !important; }
+#horizon, .depth, #near, .glow, .hl, .sh { display: none !important; }
+.dot, .spark, .ring { box-shadow: none !important; }
+.capin { text-shadow: none !important; }
